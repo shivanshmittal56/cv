@@ -1,0 +1,25 @@
+.service-title {
+  text-align: center;
+  margin-top: 2.5%;
+}
+.modification-service {
+  margin: 2.5%;
+}
+
+.contacts {
+  background-color: black;
+}
+
+.heading-contact {
+  color: antiquewhite;
+  text-align: center;
+}
+
+.service-modification {
+  text-align: center;
+  margin-top: 2.5%;
+}
+
+.service-h3 {
+  margin-top: 2%;
+}
